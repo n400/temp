@@ -1,4 +1,4 @@
-This is a temporary portfolio until I get something more seriou coded. Below is the original readme from the template I used. -n400
+This is a temporary portfolio until I get something more serious coded. Below is the original readme from the template I used. -n400
 
 ===============
 
