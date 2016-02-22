@@ -1,3 +1,7 @@
+This is a temporary portfolio until I get something more seriou coded. Below is the original readme from the template I used. -n400
+
+===============
+
 Free for personal and commercial use under the CCA 3.0 license.
 
 
